@@ -338,7 +338,9 @@ Real-Time-Sports-Analytics-Player-Performance-Tracker/
 
 ### Main Dashboard
 
-*[Screenshot will be added after first run]*
+![Main dashboard — Real-Time Player Performance Tracker](reports/screenshots/dashboard_2.png)
+
+_Figure: Interactive Streamlit dashboard showing KPIs, trend charts, and interactive filters._
 
 **Key Sections:**
 
